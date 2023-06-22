@@ -1,3 +1,7 @@
+# Movies World
+
+![Screenshot (43)](https://github.com/Vinod-Mane3021/Movies-World/assets/92261457/11e11d69-983f-4c2d-a503-6f7f9d4094a7)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
